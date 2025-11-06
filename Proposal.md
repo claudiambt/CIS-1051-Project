@@ -12,8 +12,8 @@ Species:
 10. Gecko
 
 Steps: 
-1.Import BioPython 
-2. Get gene code for each of the animals
+1. Import BioPython 
+2. Get gene code for each of the animals using GenBank
 3. Read each file individually
 4. Combine individual sequences into a single file
 5. Sequence alignment (there are several ways to do this)
