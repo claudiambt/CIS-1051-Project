@@ -1,0 +1,13 @@
+((
+        (FruitFly,Butterfly), // Invertebrate Outgroup (deepest split)
+        (
+            (Coelacanth,YellowCatfish), // Fish lineage splits first
+            (
+                (KomodoDragon,Turtle),
+                ZebraFinch,
+                Penguin,
+                Human,
+                Cat
+            )
+        )
+    ));
