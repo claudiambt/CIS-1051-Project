@@ -1,0 +1,10 @@
+(
+        (FruitFly,Butterfly), 
+        (KomodoDragon,Turtle),
+        ZebraFinch,
+        Penguin,
+        Human,
+        Cat,
+        Coelacanth,
+        YellowCatfish
+    );
